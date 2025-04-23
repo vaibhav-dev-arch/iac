@@ -1,4 +1,4 @@
-# Terraform AWS S3 Bucket Project
+# Terraform AWS S3 Bucket
 
 This Terraform project creates a secure S3 bucket in AWS with production-ready configurations. The project implements AWS best practices and security measures out of the box.
 
